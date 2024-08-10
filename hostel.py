@@ -853,7 +853,7 @@ pass_entry.place(x=650, y=355)
 def login():
     id = str(user_entry.get())
     key = str(pass_entry.get())
-    if id == "codewithcurious.com" and key == "cwc":
+    if id == "anmolsaraswat" and key == "anm":
         main()
     else:
         user_entry.focus()
